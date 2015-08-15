@@ -1,30 +1,30 @@
 \contentsline {chapter}{\numberline {1} مقدمه}{9}{chapter.1}
 \contentsline {section}{\numberline {1‏-‏1}شرح مسئله}{9}{section.1.1}
 \contentsline {section}{\numberline {1‏-‏2}اهمیت}{10}{section.1.2}
-\contentsline {section}{\numberline {1‏-‏3}انگیزه}{10}{section.1.3}
-\contentsline {section}{\numberline {1‏-‏4}سابقه پژوهش}{10}{section.1.4}
-\contentsline {section}{\numberline {1‏-‏5}هدف پژوهش}{10}{section.1.5}
-\contentsline {section}{\numberline {1‏-‏6}روش پژوهش}{10}{section.1.6}
-\contentsline {section}{\numberline {1‏-‏7}ساختار}{10}{section.1.7}
-\contentsline {chapter}{\numberline {2} ادبیات موضوعی و تعاریف}{11}{chapter.2}
-\contentsline {section}{\numberline {2‏-‏1}سیستم‌های قدیمی}{12}{section.2.1}
-\contentsline {subsection}{\numberline {2‏-‏1‏-‏1}ریسک‌های استفاده از سیستم‌های قدیمی}{12}{subsection.2.1.1}
-\contentsline {section}{\numberline {2‏-‏2}سیستم‌های جدید}{12}{section.2.2}
-\contentsline {section}{\numberline {2‏-‏3}سسیستم‌های تحت وب و موبایل}{12}{section.2.3}
-\contentsline {subsection}{\numberline {2‏-‏3‏-‏1}سیستم‌های دارای معماری سرویس‌گرا}{12}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2‏-‏3‏-‏2}سیستم‌های دارای معماری عامل‌گرا}{12}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2‏-‏3‏-‏3}سایر معماری‌ها}{12}{subsection.2.3.3}
-\contentsline {section}{\numberline {2‏-‏4}تکنیک‌های انتقال سیستم‌ها}{12}{section.2.4}
-\contentsline {subsection}{\numberline {2‏-‏4‏-‏1}بازسازی }{12}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2‏-‏4‏-‏2}پیکربندی مجدد}{12}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2‏-‏4‏-‏3}مهندسی مجدد}{12}{subsection.2.4.3}
-\contentsline {chapter}{\numberline {3} کارهای پیشین}{13}{chapter.3}
-\contentsline {section}{\numberline {3‏-‏1}معرفی مطالعات قبلی}{13}{section.3.1}
-\contentsline {section}{\numberline {3‏-‏2}طبقه‌بندی}{13}{section.3.2}
-\contentsline {chapter}{\numberline {4}تعریف یک مدل ارزیابی انتخاب تکنیک مناسب برای انتقال سیستم قدیمی}{14}{chapter.4}
-\contentsline {section}{\numberline {4‏-‏1}معرفی شاخص‌ها}{14}{section.4.1}
-\contentsline {section}{\numberline {4‏-‏2}طبقه بندی شاخص‌ها}{14}{section.4.2}
-\contentsline {section}{\numberline {4‏-‏3}معرفی مدل ارزیابی}{14}{section.4.3}
-\contentsline {section}{\numberline {4‏-‏4}مطالعه‌ی موردی}{14}{section.4.4}
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری}{15}{chapter.5}
-\contentsline {chapter}{\numberline {6}کارهای آتی }{16}{chapter.6}
+\contentsline {section}{\numberline {1‏-‏3}انگیزه}{11}{section.1.3}
+\contentsline {section}{\numberline {1‏-‏4}سابقه پژوهش}{12}{section.1.4}
+\contentsline {section}{\numberline {1‏-‏5}هدف پژوهش}{12}{section.1.5}
+\contentsline {section}{\numberline {1‏-‏6}روش پژوهش}{13}{section.1.6}
+\contentsline {section}{\numberline {1‏-‏7}ساختار}{13}{section.1.7}
+\contentsline {chapter}{\numberline {2} ادبیات موضوعی و تعاریف}{15}{chapter.2}
+\contentsline {section}{\numberline {2‏-‏1}سیستم‌های قدیمی}{16}{section.2.1}
+\contentsline {subsection}{\numberline {2‏-‏1‏-‏1}ریسک‌های استفاده از سیستم‌های قدیمی}{16}{subsection.2.1.1}
+\contentsline {section}{\numberline {2‏-‏2}سیستم‌های جدید}{16}{section.2.2}
+\contentsline {section}{\numberline {2‏-‏3}سسیستم‌های تحت وب و موبایل}{16}{section.2.3}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏1}سیستم‌های دارای معماری سرویس‌گرا}{16}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏2}سیستم‌های دارای معماری عامل‌گرا}{16}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2‏-‏3‏-‏3}سایر معماری‌ها}{16}{subsection.2.3.3}
+\contentsline {section}{\numberline {2‏-‏4}تکنیک‌های انتقال سیستم‌ها}{16}{section.2.4}
+\contentsline {subsection}{\numberline {2‏-‏4‏-‏1}بازسازی }{16}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2‏-‏4‏-‏2}پیکربندی مجدد}{16}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2‏-‏4‏-‏3}مهندسی مجدد}{16}{subsection.2.4.3}
+\contentsline {chapter}{\numberline {3} کارهای پیشین}{17}{chapter.3}
+\contentsline {section}{\numberline {3‏-‏1}معرفی مطالعات قبلی}{17}{section.3.1}
+\contentsline {section}{\numberline {3‏-‏2}طبقه‌بندی}{17}{section.3.2}
+\contentsline {chapter}{\numberline {4}تعریف یک مدل ارزیابی انتخاب تکنیک مناسب برای انتقال سیستم قدیمی}{18}{chapter.4}
+\contentsline {section}{\numberline {4‏-‏1}معرفی شاخص‌ها}{18}{section.4.1}
+\contentsline {section}{\numberline {4‏-‏2}طبقه بندی شاخص‌ها}{18}{section.4.2}
+\contentsline {section}{\numberline {4‏-‏3}معرفی مدل ارزیابی}{18}{section.4.3}
+\contentsline {section}{\numberline {4‏-‏4}مطالعه‌ی موردی}{18}{section.4.4}
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری}{19}{chapter.5}
+\contentsline {chapter}{\numberline {6}کارهای آتی }{20}{chapter.6}
