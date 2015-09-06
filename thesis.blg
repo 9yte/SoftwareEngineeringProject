@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: ./styles/packages/unsrtabbrv.bst
+Database file #1: bibs/full.bib
+Database file #2: bibs/refs.bib
+Warning--there's a number but no volume in offutt2002quality
+You've used 5 entries,
+            1791 wiz_defined-function locations,
+            819 strings with 10326 characters,
+and the built_in function-call counts, 1133 in all, are:
+= -- 105
+> -- 31
+< -- 2
++ -- 13
+- -- 8
+* -- 63
+:= -- 173
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 61
+empty$ -- 120
+format.name$ -- 8
+if$ -- 261
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 6
+newline$ -- 28
+num.names$ -- 5
+pop$ -- 19
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 29
+stack$ -- 0
+substring$ -- 68
+swap$ -- 18
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 14
+width$ -- 6
+write$ -- 56
+(There was 1 warning)

@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{chen2013legacy}
+D.~Chen and X.~Li.
+\newblock A legacy system encapsulation strategy based on web service.
+\newblock {\em Creative Education}, 3(07):59, 2013.
+
+\bibitem{warren2012renaissance}
+I.~Warren.
+\newblock {\em The renaissance of legacy systems: method support for
+  software-system evolution}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{offutt2002quality}
+J.~Offutt.
+\newblock Quality attributes of web software applications.
+\newblock {\em IEEE software}, (2):25--32, 2002.
+
+\bibitem{almonaies2010legacy}
+A.~A. Almonaies, J.~R. Cordy, and T.~R. Dean.
+\newblock Legacy system evolution towards service-oriented architecture.
+\newblock In {\em International Workshop on SOA Migration and Evolution}, pages
+  53--62, 2010.
+
+\bibitem{arsanjani2004service}
+A.~Arsanjani.
+\newblock Service-oriented modeling and architecture.
+\newblock {\em IBM developer works}, pages 1--15, 2004.
+
+\end{thebibliography}
