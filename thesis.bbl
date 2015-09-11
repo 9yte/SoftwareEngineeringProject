@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{chen2013legacy}
 D.~Chen and X.~Li.
@@ -26,5 +26,45 @@ A.~A. Almonaies, J.~R. Cordy, and T.~R. Dean.
 A.~Arsanjani.
 \newblock Service-oriented modeling and architecture.
 \newblock {\em IBM developer works}, pages 1--15, 2004.
+
+\bibitem{comella2000survey}
+S.~Comella-Dorda, K.~Wallnau, R.~C. Seacord, and J.~Robert.
+\newblock A survey of black-box modernization approaches for information
+  systems.
+\newblock In {\em Software Maintenance, 2000. Proceedings. International
+  Conference on}, pages 173--183. IEEE, 2000.
+
+\bibitem{chung2005service}
+S.~Chung, P.~S. Young, and J.~Nelson.
+\newblock Service-oriented software reengineering: Bertie3 as web services.
+\newblock In {\em Web Services, 2005. ICWS 2005. Proceedings. 2005 IEEE
+  International Conference on}. IEEE, 2005.
+
+\bibitem{chung2007service}
+S.~Chung, J.~B.~C. An, and S.~Davalos.
+\newblock Service-oriented software reengineering: Sosr.
+\newblock In {\em System Sciences, 2007. HICSS 2007. 40th Annual Hawaii
+  International Conference on}, pages 172c--172c. IEEE, 2007.
+
+\bibitem{distante2006towards}
+D.~Distante, S.~Tilley, and G.~Canfora.
+\newblock Towards a holistic approach to redesigning legacy applications for
+  the web with uwat+.
+\newblock In {\em Software Maintenance and Reengineering, 2006. CSMR 2006.
+  Proceedings of the 10th European Conference on}, pages 5--pp. IEEE, 2006.
+
+\bibitem{chen2005feature}
+F.~Chen, S.~Li, H.~Yang, C.-H. Wang, and W.~C.-C. Chu.
+\newblock Feature analysis for service-oriented reengineering.
+\newblock In {\em Software Engineering Conference, 2005. APSEC'05. 12th
+  Asia-Pacific}, pages 8--pp. IEEE, 2005.
+
+\bibitem{cuadrado2008case}
+F.~Cuadrado, B.~Garcia, J.~Dueas, H.~Parada, et~al.
+\newblock A case study on software evolution towards service-oriented
+  architecture.
+\newblock In {\em Advanced Information Networking and Applications-Workshops,
+  2008. AINAW 2008. 22nd International Conference on}, pages 1399--1404. IEEE,
+  2008.
 
 \end{thebibliography}

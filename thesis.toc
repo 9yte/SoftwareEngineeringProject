@@ -19,12 +19,14 @@
 \contentsline {subsection}{\numberline {2‏-‏4‏-‏2}پیکربندی مجدد}{19}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2‏-‏4‏-‏3}مهندسی مجدد}{19}{subsection.2.4.3}
 \contentsline {chapter}{\numberline {3} کارهای پیشین}{20}{chapter.3}
-\contentsline {section}{\numberline {3‏-‏1}معرفی مطالعات قبلی}{20}{section.3.1}
-\contentsline {section}{\numberline {3‏-‏2}طبقه‌بندی}{20}{section.3.2}
-\contentsline {chapter}{\numberline {4}تعریف یک مدل ارزیابی انتخاب تکنیک مناسب برای انتقال سیستم قدیمی}{21}{chapter.4}
-\contentsline {section}{\numberline {4‏-‏1}معرفی شاخص‌ها}{21}{section.4.1}
-\contentsline {section}{\numberline {4‏-‏2}طبقه بندی شاخص‌ها}{21}{section.4.2}
-\contentsline {section}{\numberline {4‏-‏3}معرفی مدل ارزیابی}{21}{section.4.3}
-\contentsline {section}{\numberline {4‏-‏4}مطالعه‌ی موردی}{21}{section.4.4}
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری}{22}{chapter.5}
-\contentsline {chapter}{\numberline {6}کارهای آتی }{23}{chapter.6}
+\contentsline {section}{\numberline {3‏-‏1}جایگزینی}{20}{section.3.1}
+\contentsline {section}{\numberline {3‏-‏2}مهنسدی مجدد}{21}{section.3.2}
+\contentsline {subsection}{\numberline {3‏-‏2‏-‏1}نگاهی بر برخی از شیوه‌های مهندسی مجدد}{22}{subsection.3.2.1}
+\contentsline {section}{\numberline {3‏-‏3}پوشاندن}{24}{section.3.3}
+\contentsline {chapter}{\numberline {4}تعریف یک مدل ارزیابی انتخاب تکنیک مناسب برای انتقال سیستم قدیمی}{25}{chapter.4}
+\contentsline {section}{\numberline {4‏-‏1}معرفی شاخص‌ها}{25}{section.4.1}
+\contentsline {section}{\numberline {4‏-‏2}طبقه بندی شاخص‌ها}{25}{section.4.2}
+\contentsline {section}{\numberline {4‏-‏3}معرفی مدل ارزیابی}{25}{section.4.3}
+\contentsline {section}{\numberline {4‏-‏4}مطالعه‌ی موردی}{25}{section.4.4}
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری}{26}{chapter.5}
+\contentsline {chapter}{\numberline {6}کارهای آتی }{27}{chapter.6}
